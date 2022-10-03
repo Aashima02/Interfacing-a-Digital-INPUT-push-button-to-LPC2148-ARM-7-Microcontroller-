@@ -147,12 +147,15 @@ int main(void)
 
 ## OUTPUT:
 ### LED OFF:
+![LED_OFF](https://user-images.githubusercontent.com/93427086/193507301-fe93b9c1-a62d-4374-9a02-e87a60915ab8.png)
 
 
 ### LED ON:
+![LED_ON](https://user-images.githubusercontent.com/93427086/193507323-00ae00c4-e45c-4155-a40f-a2a80b6006ff.png)
 
 
 ### CIRCUIT DIAGRAM:
+![Circuit](https://user-images.githubusercontent.com/93427086/193507336-80885f7a-d582-4242-aa82-6474741570da.png)
 
 
 ## RESULT :
